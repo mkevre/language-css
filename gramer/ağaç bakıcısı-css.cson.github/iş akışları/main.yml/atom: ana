@@ -1,0 +1,14 @@
+  Autor:mkevre
+
+  'feature_name': 'support.type.property-name'
+
+  'color_value > "#"': 'punctuation.definition.constant.css'
+  'id_selector > "#"': 'punctuation.definition.entity.css'
+  'selectors > ","': 'punctuation.separator.list.comma.css'
+
+  '"and", "or", "not", "only"': 'keyword.operator'
+  'keyword_query': 'keyword.operator'
+  'binary_expression > "+"': 'keyword.operator'
+  'binary_expression > "-"': 'keyword.operator'
+  'binary_expression > "/"': 'keyword.operator'
+  'binary_expression > "*"': 'keyword.operator'
